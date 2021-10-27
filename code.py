@@ -1,3 +1,15 @@
+# Por:  Jesus A. Trujillo de Anda   A00827538
+#       Jorge Avalos                A01720730
+#       Carlos Milano               A01383102
+#       Carlos Gaeta López          A01611248
+#       Alberto Guajardo            A00826548
+
+#Herramientas computacionales: el arte de la programación (Gpo 6)
+
+#Actividad 4. Juego de Tiro Parabólico
+
+#ULTIMA FECHA DE MODIFICACION: Miércoles, 27 de octubre de 2021
+
 from random import randrange
 from turtle import *
 from freegames import vector
@@ -68,3 +80,7 @@ tracer(False)
 onscreenclick(tap)
 move()
 done()
+
+# 2021. Derechos reservados : Ninguna parte de esta obra puede ser reproducida o
+# transmitida, mediante ningún sistema o método, electrónico o mecánico, sin conocimiento por escrito 
+# de los autores. Tec de Monterrey.
